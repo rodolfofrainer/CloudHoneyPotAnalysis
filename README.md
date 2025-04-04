@@ -3,6 +3,28 @@
 This project aims to practice the creation, configuration, deployment and analysis of a virtual machine exposed to the internet.
 The pre requisit for this project is to have an Azure account.
 
+- [SOC Microsoft Sentinel Analyst Project](#soc-microsoft-sentinel-analyst-project)
+  - [Resouce Group](#resouce-group)
+    - [Creation](#creation)
+  - [Virtual Network](#virtual-network)
+    - [Creation](#creation-1)
+  - [Virtual Machine](#virtual-machine)
+    - [Creation](#creation-2)
+  - [Setting Firewall Rules](#setting-firewall-rules)
+    - [Adding a inbound rule](#adding-a-inbound-rule)
+  - [Logging into the VM](#logging-into-the-vm)
+    - [Disable Windows Firewall](#disable-windows-firewall)
+  - [Pinging honeypot](#pinging-honeypot)
+  - [Checking the logs](#checking-the-logs)
+    - [After logging in successfully](#after-logging-in-successfully)
+  - [Analytic workspace](#analytic-workspace)
+    - [Sentinel](#sentinel)
+  - [Back to Sentinel](#back-to-sentinel)
+    - [Importing Data to SIEM](#importing-data-to-siem)
+    - [Back to the Logs visualization](#back-to-the-logs-visualization)
+    - [Creating a map](#creating-a-map)
+  - [Special Thanks](#special-thanks)
+
 ## Resouce Group
 
 Resource groups are containers that hold related resources, providing a way to manage and organize resources logically.
