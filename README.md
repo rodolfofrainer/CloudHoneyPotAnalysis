@@ -169,3 +169,7 @@ To create a map a Sentinel workbook has to be created
 3. The map can be visualized
 
 ![ipMap](/images/ipMap.jpg)
+
+## Special Thanks
+
+- Josh Madakor has developed this fantastic tutorial to help people to gain experience in the field, free
